@@ -1,4 +1,5 @@
 openai
 pdf2image
 pillow
+pypdf
 yapf
